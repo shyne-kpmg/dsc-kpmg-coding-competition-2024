@@ -1,0 +1,3 @@
+def Solution(password: str) -> bool:
+
+    return ...

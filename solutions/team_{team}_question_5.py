@@ -1,0 +1,3 @@
+def Solution(objects: int) -> int:
+
+    return ...
